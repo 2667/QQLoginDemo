@@ -9,7 +9,10 @@
 #import "AppDelegate.h"
 #import <TencentOpenAPI/QQApiInterface.h>
 #import <TencentOpenAPI/TencentOAuth.h>
-#define TENCENT_CONNECT_APP_KEY @"app id"
+//#define TENCENT_CONNECT_APP_KEY @"app id"
+#define TENCENT_CONNECT_APP_KEY @"1106456921"
+
+
 @interface AppDelegate ()<QQApiInterfaceDelegate,TencentSessionDelegate>
 
 @end

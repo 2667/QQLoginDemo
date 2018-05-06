@@ -246,6 +246,7 @@
 				TargetAttributes = {
 					9DEBEDB21D13CFF6004254AC = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = KPZB7A4HR4;
 					};
 					9DEBEDCB1D13CFF7004254AC = {
 						CreatedOnToolsVersion = 7.3;
@@ -453,6 +454,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = KPZB7A4HR4;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/QQLoginDemo",
@@ -475,6 +477,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = KPZB7A4HR4;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/QQLoginDemo",
